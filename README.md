@@ -1,6 +1,6 @@
 ### Hi, I am Crystal, a full-stack developer 👋
 
-I am a former tax accountant who survived Tax Cuts and Jobs Act and then went back to my alma mater for a Master's in Computer Science. And since then, I have been feeling like a fish who found my ocean. 
+I am a former tax accountant who survived Tax Cuts and Jobs Act and then went back to my alma mater for a Master's in Computer Science. And since then, I have been feeling like a fish back to the sea. 
 
 - 🔭 I’m currently working on a Google Keep clone, collabrating on an Art Management System, and building up my confidence to contribute to open-source projects xD
 - 🌱 I’m currently learning PERN Stack with TypeScript, ASP.NET, and Golang
