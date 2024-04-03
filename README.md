@@ -5,8 +5,9 @@ I am a former tax accountant who survived Tax Cuts and Jobs Act and then went ba
 - 🔭 I’m currently working on a Google Keep clone, collabrating on an Art Management System, and building up my confidence to contribute to open-source projects xD
 - 🌱 I’m currently learning PERN Stack, TypeScript, ASP.NET, and Golang
 - 📚 I'm trying to figure out project ideas involving accounting domain knowledge
-- 📫 How to reach me: Send me a LinkedIn Request and let's get the DM going
+- 📫 Send me a LinkedIn Request and let's get the DM going if you wanna chat or collab on some projects
 - ⚡ Fun fact: I tore my right knee ACL from playing Dance Dance Revolution in 2023
+- 💾 [Sololearn](https://www.sololearn.com/en/profile/22096385): Coding Duolingo :)
 <hr>
 
 ### I would not have been where I am today without these creators' content on YouTube:
